@@ -1,0 +1,57 @@
+Generation Log:
+
+Start Generating /
+Successful write of file /common/src/main/kotlin/org/regisrty/domain/History.kt
+Successful write of file /app-pet/src/main/kotlin/org/regisrty/pet/domain/Pet.kt
+Successful write of file /app-pet/src/main/kotlin/org/regisrty/pet/repository/PetRepository.kt
+Successful write of file /app-pet/src/main/kotlin/org/regisrty/pet/service/PetService.kt
+Successful write of file /app-pet/src/main/kotlin/org/regisrty/pet/controller/api/PetApi.kt
+Successful write of file /app-pet/src/main/kotlin/org/regisrty/pet/controller/PetController.kt
+Successful write of file /app-pet/src/test/kotlin/org/regisrty/pet/controller/PetApiIT.kt
+Successful write of file /build.gradle.kts
+Successful write of file /settings.gradle.kts
+Successful write of file /gradlew
+Successful write of file /gradlew.bat
+Successful write of file /docker-compose.yml
+Successful write of file /README.md
+Successful write of file /gradle/wrapper/gradle-wrapper.properties
+Successful write of file /gradle/wrapper/gradle-wrapper.jar
+Successful write of file /common/build.gradle.kts
+Successful write of file /common/src/main/kotlin/org/regisrty/config/WebConfig.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/constant/EntityState.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/controller/AbstractController.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/controller/CommonController.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/controller/CommonParameterizedController.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/listener/BaseResourceListener.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/domain/BaseResource.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/domain/BaseDomain.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/exception/InvalidRequestException.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/exception/ResourceNotFoundException.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/listener/BaseDomainListener.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/repository/CommonRepository.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/service/AbstractService.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/service/CommonService.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/config/SpringFoxConfig.kt
+Successful write of file /.gitignore
+Successful write of file /.editorconfig
+Successful write of file /gradle.properties
+Successful write of file /.idea/runConfigurations/Application.xml
+Successful write of file /app-pet/src/main/kotlin/org/regisrty/pet/PetApplication.kt
+Successful write of file /app-pet/src/test/kotlin/org/regisrty/pet/controller/AbstractIntegrationTest.kt
+Successful write of file /app-pet/src/test/kotlin/org/regisrty/pet/controller/CommonIntegrationTest.kt
+Successful write of file /app-pet/src/test/resources/application.yml
+Successful write of file /app-pet/src/test/resources/application-testcontainers.yml
+Successful write of file /app-pet/build.gradle.kts
+Successful write of file /app-pet/src/main/resources/application.yml
+Successful write of file /app-pet/src/main/resources/application-dev.yml
+Successful write of file /app-pet/src/main/resources/application-prod.yml
+Successful write of file /app-pet/src/main/resources/hibernate-types.properties
+Successful write of file /app-pet/src/main/resources/liquibase/liquibase-changeLog.xml
+Successful write of file /app-pet/src/main/resources/liquibase/settings.xml
+Successful write of file /app-pet/src/main/resources/liquibase/migrations/generatedChangeLog.xml
+Successful write of file /app-pet/src/main/resources/liquibase/migrations/metadata_data.xml
+Successful write of file /app-pet/src/main/resources/liquibase/migrations/metadata.csv
+Successful write of file /.openapi-generator-ignore
+Successful write of file /.openapi-generator/VERSION
+Successful write of file /djai/djai.lock
+Stop Generating /
