@@ -31,7 +31,7 @@ Successful write of file /common/src/main/kotlin/org/regisrty/listener/BaseDomai
 Successful write of file /common/src/main/kotlin/org/regisrty/repository/CommonRepository.kt
 Successful write of file /common/src/main/kotlin/org/regisrty/service/AbstractService.kt
 Successful write of file /common/src/main/kotlin/org/regisrty/service/CommonService.kt
-Successful write of file /common/src/main/kotlin/org/regisrty/config/SpringFoxConfig.kt
+Successful write of file /common/src/main/kotlin/org/regisrty/config/OpenApiConfig.kt
 Successful write of file /.gitignore
 Successful write of file /.editorconfig
 Successful write of file /gradle.properties
